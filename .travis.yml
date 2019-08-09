@@ -10,7 +10,7 @@ notifications:
   webhooks:
     urls:
       - http://106.10.59.172/webhook
-      - http://2a858171.ngrok.io/webhookhandler/github
+      - http://2a858171.ngrok.io/webhookhandler/travisci
     on_start:   always
     on_success: always
     on_failure: always
