@@ -1,0 +1,4 @@
+notifications:
+  webhooks:
+    - http://106.10.59.172/webhook
+    - http://2a858171.ngrok.io/webhookhandler/github
