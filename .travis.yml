@@ -10,7 +10,7 @@ notifications:
   webhooks:
     urls:
       - http://106.10.59.172/webhook
-      - https://fa80c536.ngrok.io/webhookhandler/travisci
+      - https://210.89.190.117:8080/webhookhandler/travisci
     on_start:   always
     on_success: always
     on_failure: always
